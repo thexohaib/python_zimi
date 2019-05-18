@@ -2,5 +2,3 @@
 how many escape sequences ?
 
 196.194.146.178:27015
-hi 2
-hi 3
